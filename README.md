@@ -26,10 +26,10 @@ cv2.CV_COMP_INTERSECT Intersection
 cv2.CV_COMP_BHATTACHARYYA Bhattacharyya distance
 
 Dataset-HistogramDataset
-├── classes
-│ ├── pikachu [10 entries]
-│ ├── bulbasaur [10 entries]
-│ ├── charmander [10 entries]
-│ └── squirtle [10 entries]
-├── targets [4 entries]
-├── mystery [10 entries]
+1.classes
+-pikachu [10 entries]
+-bulbasaur [10 entries]
+-charmander [10 entries]
+-squirtle [10 entries]
+2.targets [4 entries]
+3.mystery [10 entries]
